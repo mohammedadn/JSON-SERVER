@@ -1,102 +1,104 @@
 {
-  "transactions": [
+  "vehicles": [
     {
       "id": 1,
-      "date": "2019-12-01",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "make": "Toyota",
+      "model": "harrier",
+      "year": 2019,
+      "color": "Red",
+      "price": "Ksh 2500000",
+      "mileage": 30000,
+      "photo": "./assets/harrier.jpeg"
     },
     {
       "id": 2,
-      "date": "2019-12-01",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2018,
+      "color": "Blue",
+      "price": "Ksh 2310000",
+      "mileage": 35000,
+      "photo": "./assets/civic.jpeg"
     },
     {
       "id": 3,
-      "date": "2019-12-02",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2020,
+      "color": "Black",
+      "price": "Ksh 10500000",
+      "mileage": 25000,
+      "photo": "./assets/ford.jpeg"
     },
     {
       "id": 4,
-      "date": "2019-12-04",
-      "description": "Sunglasses, Urban Outfitters",
-      "category": "Fashion",
-      "amount": -24.99
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "year": 2017,
+      "color": "White",
+      "price": "Ksh 6000000",
+      "mileage": 112000,
+      "photo": "./assets/chevy.jpeg"
     },
     {
       "id": 5,
-      "date": "2019-12-06",
-      "description": "Venmo, Alice Pays you for Burrito",
-      "category": "Food",
-      "amount": 8.75
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": 2021,
+      "color": "Green",
+      "price": "Ksh 14000000",
+      "mileage": 20000,
+      "photo": "./assets/jeep.jpeg"
     },
     {
       "id": 6,
-      "date": "2019-12-06",
-      "description": "Chipotle",
-      "category": "Food",
-      "amount": -17.59
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2016,
+      "color": "Silver",
+      "price": "Ksh 2250000",
+      "mileage": 28000,
+      "photo": "./assets/altima.jpeg"
     },
     {
       "id": 7,
-      "date": "2019-12-07",
-      "description": "Birthday Check from Grandma",
-      "category": "Gift",
-      "amount": 50
+      "make": "BMW",
+      "model": "3 Series",
+      "year": 2019,
+      "color": "Gray",
+      "price": "Ksh 2800000",
+      "mileage": 32000,
+      "photo": "./assets/bmw.jpeg"
     },
     {
       "id": 8,
-      "date": "2019-12-09",
-      "description": "Lyft Ride",
-      "category": "Transportation",
-      "amount": -13.25
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": 2020,
+      "color": "Black",
+      "price": "Ksh 3800000",
+      "mileage": 18000,
+      "photo": "./assets/merc.jpeg"
     },
     {
       "id": 9,
-      "date": "2019-12-11",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "make": "Mercedes-Benz",
+      "model": "Gwagon",
+      "year": 2017,
+      "color": "Silver",
+      "price": "Ksh 29000000",
+      "mileage": 25000,
+      "photo": "./assets/gwagon.jpeg"
     },
     {
       "id": 10,
-      "date": "2019-12-16",
-      "description": "Tickets, Flatiron Multiplex Cinemas",
-      "category": "Entertainment",
-      "amount": -24
-    },
-    {
-      "id": 11,
-      "date": "2019-12-16",
-      "description": "MTA Vending Machine: MetroCard",
-      "category": "Transportation",
-      "amount": -116.39
-    },
-    {
-      "id": 12,
-      "date": "2019-12-17",
-      "description": "Venmo, Pay Roommate for Rent",
-      "category": "Housing",
-      "amount": -975
-    },
-    {
-      "date": "2022-07-09",
-      "description": "Office lunch",
-      "category": "Food",
-      "amount": "2000",
-      "id": 13
-    },
-    {
-      "date": "2022-07-09",
-      "description": "Office lunch Wednesday",
-      "category": "Food",
-      "amount": "3000",
-      "id": 14
+      "make": "Volvo",
+      "model": "XC90",
+      "year": 2021,
+      "color": "White",
+      "price": "Ksh 4200000",
+      "mileage": 15000,
+      "photo": "./assets/volvo.jpeg"
     }
   ]
 }
